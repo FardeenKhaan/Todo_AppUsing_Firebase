@@ -1,6 +1,13 @@
-# todo_app_usingfirebase
+![4](https://github.com/user-attachments/assets/503425a5-54ca-4fce-8bc4-9d6db5de4b43)# todo_app_usingfirebase
 
-A new Flutter project.
+ToDo list App in Flutter in which we perform CRUD Operations and for the backend I have also used Firebase so CRUD Operations easily perform.
+
+# Output
+![1](https://github.com/user-attachments/assets/a1b967a0-60ab-401c-9234-3d004c3e06f8)   ![2](https://github.com/user-attachments/assets/5b1c2f7a-8480-4b37-a443-c94826b5f77c)
+
+![4](https://github.com/user-attachments/assets/400a5f7b-2f17-4722-8824-dbafec2f3618)   ![3](https://github.com/user-attachments/assets/0ab41c46-746b-4807-b6ae-7340018a85d9)
+
+
 
 ## Getting Started
 
